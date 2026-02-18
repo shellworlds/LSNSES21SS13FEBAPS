@@ -1,0 +1,11 @@
+{
+  "reason": "exclusive_hardware_access",
+  "qubit_hours": 20000,
+  "speedup_factor": 8.5,
+  "cost_savings_usd": 1500000,
+  "partners": [
+    "IBM Quantum",
+    "IonQ",
+    "Quantinuum"
+  ]
+}
